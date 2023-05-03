@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a 17-year-old self-taught developer and reverse engineer from Russia. Primarly interested in reverse engineering, coding, code obfuscation, low level .NET programming.
+I'm a 18-year-old self-taught developer and reverse engineer from Russia. Primarly interested in reverse engineering, coding, code obfuscation, low level .NET programming.
 
 [![NoneNameDeveloper's github stats](https://github-readme-stats.vercel.app/api?username=NoneNameDeveloper&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
