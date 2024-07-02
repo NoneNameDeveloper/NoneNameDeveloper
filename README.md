@@ -6,10 +6,6 @@ I'm a 18-year-old self-taught developer and reverse engineer from Russia. Primar
 
 
 
-### Contact:
-- **Telegram**: [PontiyCoder](https://t.me/pontiycoder)
-
-
 ### Languages and Tools:
 <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
